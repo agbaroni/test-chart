@@ -2,3 +2,7 @@ application:
   name: test
 project:
   name: test
+postgresql:
+  database: test
+  password: password
+  user: user
